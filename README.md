@@ -5,4 +5,4 @@
 - Interested in Perception and Planning for Autonomous Robots
 - Reach me at kgnandanwar@wpi.edu or connect me on https://www.linkedin.com/in/kgnandanwar/
 - Google Scholar: https://scholar.google.com/citations?user=okAEDBAAAAAJ&hl=en&oi=ao
-[![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kgnandanwar)](https://github.com/kgnandanwar/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kgnandanwar)](https://github.com/anuraghazra/github-readme-stats)
