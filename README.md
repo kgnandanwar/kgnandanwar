@@ -7,6 +7,7 @@
   - Email: kgnandanwar@wpi.edu 
   - LinkedIn: https://www.linkedin.com/in/kgnandanwar/
   - Google Scholar: https://scholar.google.com/citations?user=okAEDBAAAAAJ&hl=en&oi=ao
+  - Others: Team Garuda Website: sites.google.com/view/team-garuda
 <!-- - -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kgnandanwar&show_icons=true&&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
