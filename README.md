@@ -5,6 +5,7 @@
 - Interested in Perception and Planning for Autonomous Robots
 - Contact Details:
   - Email: kgnandanwar@wpi.edu 
+  - Website: https://kgnandanwar.github.io/
   - LinkedIn: https://www.linkedin.com/in/kgnandanwar/
   - Google Scholar: https://scholar.google.com/citations?user=okAEDBAAAAAJ&hl=en&oi=ao
   - Others: Team Garuda Website: [sites.google.com/view/team-garuda](https://sites.google.com/view/team-garuda)
