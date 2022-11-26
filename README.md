@@ -2,7 +2,7 @@
 
 - Pursuing MS in Robotics at Worcester Polytechnic Institute, MA
 - Currently interning at Honda Research Institute on Human-Human-Robot Interation
-- Interested in Perception and Planning for Autonomous Robots
+- Interested in Deep Learning and Perception for Autonomous Robots
 - Contact Details:
   - Email: kgnandanwar@wpi.edu 
   - Website: https://kgnandanwar.github.io/
