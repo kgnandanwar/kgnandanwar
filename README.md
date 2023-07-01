@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=kgnandanwar&style=flat)
+<!-- ![](https://komarev.com/ghpvc/?username=kgnandanwar&style=flat) -->
 
 ### Hi there, I am Kunal Nandanwar
 
