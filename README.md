@@ -3,7 +3,6 @@
 ### Hi there, I am Kunal Nandanwar
 
 - Completed MS in Robotics at Worcester Polytechnic Institute, MA
-- Currently working as Research Assistant at WPI
 - Interested in Deep Learning and Perception for Autonomous Robots
 - Contact Details:
   - Email: kgnandanwar@wpi.edu 
