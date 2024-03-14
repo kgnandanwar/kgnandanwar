@@ -1,6 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=kgnandanwar&style=flat)
 
-Hi there, I'm Kunal Nandanwar, a recent graduate with an MS in Robotics from Worcester Polytechnic Institute, MA. My interests lie in Deep Learning and Perception for Autonomous Robots. I have interned at Brain Corp, Honda Research Institute and FieldAI in the domains of Computer Vision. Previously, I have worked with John Deere on autonomous tractors.
+### Kunal Nandanwar
+
+I am a recent graduate with an MS in Robotics from Worcester Polytechnic Institute, MA. My interests lie in Deep Learning and Perception for Autonomous Robots. I have interned at Brain Corp, Honda Research Institute and FieldAI in the domains of Computer Vision. Previously, I have worked with John Deere on autonomous tractors.
 
 You can reach me via email at kgnandanwar@wpi.edu, visit my website at https://kgnandanwar.github.io/, or connect with me on LinkedIn at https://www.linkedin.com/in/kgnandanwar/.
 
