@@ -8,7 +8,7 @@ Contact:
 kgnandanwar@wpi.edu  
 https://www.linkedin.com/in/kgnandanwar/
 
-Website: 
+Website:  
 https://kgnandanwar.github.io/
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kgnandanwar&show_icons=true&&theme=radical)](https://github.com/anuraghazra/github-readme-stats)-->
