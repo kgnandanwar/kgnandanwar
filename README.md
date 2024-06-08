@@ -2,7 +2,7 @@
 
 ### Kunal Nandanwar
 
-I am a recent graduate with an MS in Robotics from Worcester Polytechnic Institute, MA. My interests lie in Deep Learning and Perception for Autonomous Robots. I have interned at Brain Corp, Honda Research Institute and FieldAI in the domains of Computer Vision. Previously, I have worked with John Deere on autonomous tractors.
+I hold an MS in Robotics with a strong interest in Deep Learning and Perception for Autonomous Robots. I've gained valuable experience through internships at Brain Corp, Honda Research Institute, and FieldAI, focusing on Computer Vision. Additionally, I have worked with John Deere on developing autonomous tractors.
 
 Contact:  
 kgnandanwar@gmail.com 
