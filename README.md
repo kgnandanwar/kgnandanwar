@@ -4,7 +4,7 @@
 ## Hey! I am [Sayantani Bhattacharya](https://sayantani-bhattacharya.github.io/) 👋  
 -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-kgnandanwar?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kgnandanwar/ "Connect on LinkedIn")
+[![Linkedin Badge](https://img.shields.io/badge/-Kunal%20Nandanwar-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kgnandanwar/ "Connect on LinkedIn")
 
 I pursued MS Robotics at Worcester Polytechnic Institute.
 - 💻 Computer Vision, Deep Learning, Machine Learning.
