@@ -8,7 +8,7 @@
 
 - I completed my **M.S. in Robotics Engineering** from **Worcester Polytechnic Institute (WPI)** in May 2023.
 
-- I’ve previously worked at **Vigilant Eye** and **Agtonomy** in the domains of **Computer Vision** and **Machine Learning**.
+- I am currently working at Brooks Automation in the domain of Computer Vision. I’ve previously worked at **Vigilant Eye** and **Agtonomy** in the domains of **Computer Vision** and **Machine Learning**.
 
 - During my second year at WPI, I interned at **Honda Research Institute**, **BrainCorp**, and **FieldAI**, focusing on **ML**, **perception**, and **autonomy**. I also worked as a **Visiting Research Assistant** at the **DICE Lab at SDSU**.
 
