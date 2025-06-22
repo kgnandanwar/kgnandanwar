@@ -18,6 +18,5 @@ Reach out to me for discussions and projects on
 - ⚡ Fun fact: 
 -->
 
-Website:  
-https://kgnandanwar.github.io/
+Website: https://kgnandanwar.github.io/
 
