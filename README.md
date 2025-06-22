@@ -2,7 +2,7 @@
 
 ## Hey! I’m Kunal Nandanwar  
 
-[![Linkedin Badge](https://img.shields.io/badge/-Kunal%20Nandanwar-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kgnandanwar/ "Connect on LinkedIn")
+🔗 **Connect on LinkedIn:**  [![Linkedin Badge](https://img.shields.io/badge/-Kunal%20Nandanwar-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kgnandanwar/ "Connect on LinkedIn")
 
 🎓 I completed my **M.S. in Robotics Engineering** from **Worcester Polytechnic Institute (WPI)** in May 2023.
 
