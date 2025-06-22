@@ -12,7 +12,7 @@ I pursued MS Robotics at Worcester Polytechnic Institute.
 - 🔀 Path planning & Optimization.
 
 
-Reach out to me for discussions and projects on  
+Reach out to me for discussions and projects on 
 [![Gmail Badge](https://img.shields.io/badge/-kgnandanwar@wpi.edu-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kgnandanwar@wpi.edu "Connect via Email")
 <!--
 - ⚡ Fun fact: 
