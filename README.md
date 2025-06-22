@@ -14,4 +14,4 @@
 
 📫 Email: [![Gmail Badge](https://img.shields.io/badge/-kgnandanwar@wpi.edu-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kgnandanwar@wpi.edu "Connect via Email")
 
-🌐 Website: [https://kgnandanwar.github.io/](https://kgnandanwar.github.io/)
+🌐 Portfolio: [https://kgnandanwar.github.io/](https://kgnandanwar.github.io/)
